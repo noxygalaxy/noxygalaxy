@@ -1,4 +1,4 @@
-## purple is de best...
+## purple is the best color... :3
 
 🌍 Country: Ukraine <br>
 💻 I code in: Python, Java, C++, js <br>
