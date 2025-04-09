@@ -20,8 +20,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noxygalaxy&card_width=280&bg_color=fafafa&title_color=9666ff&border_color=bcbcbc&border_radius=8" />
 </a>
 
-<div style="position: absolute; margin-top: 10px;">
-  <a href="https://discord.com/users/623924391356399616">
-    <img src="https://lanyard.cnrad.dev/api/623924391356399616?borderRadius=15px&bg=101010&idleMessage=I'm%20not%20doing%20anything%20yet%20%3Ap&theme=dark&animated=true&animatedDecoration=true&hideDecoration=true&showDisplayName=true" />
-  </a>
-</div>
+<a href="https://discord.com/users/623924391356399616">
+  <img align="center" src="https://lanyard.cnrad.dev/api/623924391356399616?borderRadius=15px&bg=101010&idleMessage=I'm%20not%20doing%20anything%20yet%20%3Ap&theme=dark&animated=true&animatedDecoration=true&hideDecoration=true&showDisplayName=true" />
+</a>
