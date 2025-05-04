@@ -14,6 +14,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noxygalaxy&card_width=280&bg_color=0a0a0a&title_color=9666ff&border_color=1e1e1e&border_radius=8" />
 </a>
 
+ㅤ ㅤ ㅤ 
+
 <a href="https://noxy.netlify.app">
   <img align="center" src="https://lanyard.cnrad.dev/api/623924391356399616?borderRadius=15px&bg=0a0a0a&idleMessage=I'm%20not%20doing%20anything%20yet%20%3Ap&theme=dark&animated=true&animatedDecoration=true&hideDecoration=true&showDisplayName=true" />
 </a>
