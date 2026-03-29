@@ -6,12 +6,12 @@
 🌐 My [website <3](https://noxy.netlify.app/) <br>
 💜 don't blame me for my shit code :P
 
-<a href="https://noxy.netlify.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=noxygalaxy&number_format=long&show_icons=true&bg_color=0a0a0a&title_color=9666ff&icon_color=9666ff&border_color=1e1e1e&border_radius=8" />
+<a href="https://noxyin.space">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=noxygalaxy&number_format=long&show_icons=true&bg_color=0a0a0a&title_color=9666ff&icon_color=9666ff&border_color=1e1e1e&border_radius=8" />
 </a>
 
-<a href="https://noxy.netlify.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noxygalaxy&card_width=280&bg_color=0a0a0a&title_color=9666ff&border_color=1e1e1e&border_radius=8" />
+<a href="https://noxyin.space">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=noxygalaxy&card_width=280&bg_color=0a0a0a&title_color=9666ff&border_color=1e1e1e&border_radius=8" />
 </a>
 
 ㅤ ㅤ ㅤ 
