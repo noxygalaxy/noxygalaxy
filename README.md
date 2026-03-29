@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://noxyin.space">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=PraneshJs" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=noxygalaxy&custom_title=Coding%20Time&api_domain=wakapi.dev&layout=compact&bg_color=0a0a0a&title_color=9666ff&border_color=1e1e1e&border_radius=8" />
 </a>
 
 ㅤ ㅤ ㅤ 
