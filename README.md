@@ -20,7 +20,8 @@
 
 ㅤ ㅤ ㅤ 
 
+> Profile Views:
 <a href="https://noxyin.space">
-  <img align="center" src="https://lanyard.cnrad.dev/api/623924391356399616?borderRadius=15px&bg=0a0a0a&idleMessage=I'm%20not%20doing%20anything%20yet%20%3Ap&theme=dark&animated=true&animatedDecoration=true&hideDecoration=true&showDisplayName=true" />
+  <img align="center" src="https://count.getloli.com/get/@:noxygalaxy?theme=booru-lisu" />
 </a>
 
