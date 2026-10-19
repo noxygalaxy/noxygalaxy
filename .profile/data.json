@@ -1,0 +1,687 @@
+{
+ "key": "9eacc9ca",
+ "stars": 33,
+ "contributions": 329,
+ "repos": 47,
+ "followers": 26,
+ "languages": [
+  [
+   "JavaScript",
+   103131
+  ],
+  [
+   "Python",
+   51101
+  ],
+  [
+   "C++",
+   41209
+  ],
+  [
+   "CSS",
+   32394
+  ],
+  [
+   "Rust",
+   26092
+  ],
+  [
+   "HTML",
+   14512
+  ],
+  [
+   "Java",
+   7315
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 4,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 12,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 9
+ },
+ "pins": [
+  {
+   "name": "CodeMotion",
+   "url": "https://github.com/cdmtn/CodeMotion",
+   "text": "CodeMotion - IDE for web-developers",
+   "fork": false,
+   "stars": 85,
+   "language": "JavaScript",
+   "topics": [
+    "electron",
+    "ide",
+    "idea",
+    "javascript",
+    "js",
+    "nodejs",
+    "ts",
+    "typescript"
+   ]
+  },
+  {
+   "name": "Translator",
+   "url": "https://github.com/MoonMonet/Translator",
+   "text": "A beautiful, minimalist, and smart desktop translator that actually gets out of your way.",
+   "fork": false,
+   "stars": 61,
+   "language": "TypeScript",
+   "topics": [
+    "deepl",
+    "google-translate",
+    "translator",
+    "translator-app"
+   ]
+  },
+  {
+   "name": "Installer",
+   "url": "https://github.com/SpaceTheme/Installer",
+   "text": "GUI/CLI tool that installs, updates and removes SpaceTheme themes.",
+   "fork": false,
+   "stars": 9,
+   "language": "HTML",
+   "topics": [
+    "cli-installer",
+    "cli-script",
+    "gui-application",
+    "gui-installer",
+    "installer"
+   ]
+  },
+  {
+   "name": "TClient",
+   "url": "https://github.com/TaterClient/TClient",
+   "text": "Extended DDNet Teeworlds client.",
+   "fork": true,
+   "stars": 141,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "simple-cli-rpc",
+   "url": "https://github.com/noxygalaxy/simple-cli-rpc",
+   "text": "Simple Command Line RPC Tool!",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "command-line",
+    "commandline",
+    "discord",
+    "pypresence",
+    "rich-presence",
+    "rich-presence-discord",
+    "rpc",
+    "simple-rpc",
+    "simplerpc"
+   ]
+  },
+  {
+   "name": "Steam-Custom-Artworks",
+   "url": "https://github.com/SpaceTheme/Steam-Custom-Artworks",
+   "text": "Custom covers, banners, heroes and logos for your Steam library in one consistent style.",
+   "fork": false,
+   "stars": 32,
+   "language": "CSS",
+   "topics": [
+    "automation",
+    "steam",
+    "steam-api",
+    "steam-artwork",
+    "steam-games",
+    "steam-grid",
+    "workflow",
+    "workflows"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "TWLauncher",
+   "url": "https://github.com/noxygalaxy/TWLauncher",
+   "text": "Launcher for most popular Teeworlds clients.",
+   "fork": false,
+   "stars": 11,
+   "language": "JavaScript",
+   "topics": [
+    "ddnet",
+    "ddracenetwork",
+    "tclient",
+    "teeworlds",
+    "twl",
+    "cactusclient",
+    "taterclient",
+    "teeworldslauncher",
+    "twlauncher"
+   ]
+  },
+  {
+   "name": "cyn-FAKE-virus",
+   "url": "https://github.com/noxygalaxy/cyn-FAKE-virus",
+   "text": "Cyn (Murder drones) virus i made for my tiktok video [FAKE VIRUS!!!]",
+   "fork": false,
+   "stars": 8,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "cs2-autoaccept",
+   "url": "https://github.com/noxygalaxy/cs2-autoaccept",
+   "text": "Automatically accepts a match in Counter-Strike 2.",
+   "fork": false,
+   "stars": 4,
+   "language": "Python",
+   "topics": [
+    "autoaccept",
+    "counter-strike",
+    "counter-strike-2",
+    "counterstrike-2",
+    "counterstrike2",
+    "cs2",
+    "pyautogui",
+    "pygetwindow",
+    "python",
+    "simple"
+   ]
+  },
+  {
+   "name": "simple-cli-rpc",
+   "url": "https://github.com/noxygalaxy/simple-cli-rpc",
+   "text": "Simple Command Line RPC Tool!",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "command-line",
+    "commandline",
+    "discord",
+    "pypresence",
+    "rich-presence",
+    "rich-presence-discord",
+    "rpc",
+    "simple-rpc",
+    "simplerpc"
+   ]
+  },
+  {
+   "name": "steamdeck-testing",
+   "url": "https://github.com/noxygalaxy/steamdeck-testing",
+   "text": "use it for testing not new steam decks if you buying one! :3",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MicSound",
+   "url": "https://github.com/noxygalaxy/MicSound",
+   "text": "App designed specifically for Russian GTA 5 RP Servers",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "pause-countdown",
+   "url": "https://github.com/noxygalaxy/pause-countdown",
+   "text": "Geode mod for geometry dash that starts countdown as you unpause",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "SBR-Tool",
+   "url": "https://github.com/noxygalaxy/SBR-Tool",
+   "text": "Schoolboy Runaway tool",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "mch-mod",
+   "url": "https://github.com/noxygalaxy/mch-mod",
+   "text": "MC Helper is a mod that makes managing commands and item bindings in Minecraft a little bit easier. Bind commands to items and get notifications in a boss bar.",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "tiktok-badge",
+   "url": "https://github.com/noxygalaxy/tiktok-badge",
+   "text": "TikTok Badge mod for Geode",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "mycatwalkedthroughmykeyboardlanguage",
+   "url": "https://github.com/noxygalaxy/mycatwalkedthroughmykeyboardlanguage",
+   "text": "(Geode Mod) Replaces all letters to random ones",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "spacetheme-net",
+   "url": "https://github.com/noxygalaxy/spacetheme-net",
+   "text": "This is the website of SpaceTheme",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "filmcraft",
+   "url": "https://github.com/noxygalaxy/filmcraft",
+   "text": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "hebnix-linux",
+   "url": "https://github.com/noxygalaxy/hebnix-linux",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "ytkew-fixed",
+   "url": "https://github.com/noxygalaxy/ytkew-fixed",
+   "text": "A terminal YouTube Music player inspired by kew and fixed by noxy.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Concat",
+   "url": "https://github.com/noxygalaxy/Concat",
+   "text": "Free & Open-Source CapCut replacement (supports MCPs).",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "rl-discord-rpc",
+   "url": "https://github.com/noxygalaxy/rl-discord-rpc",
+   "text": "Discord Rich Presence for Rocket League. Built on Stats API / NO INJECTING!!!",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "ProtocolLib",
+   "url": "https://github.com/noxygalaxy/ProtocolLib",
+   "text": "Provides read and write access to the Minecraft protocol with Bukkit.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "DDNet-Client-List",
+   "url": "https://github.com/noxygalaxy/DDNet-Client-List",
+   "text": "List of DDNet based Clients",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "badges4noxy",
+   "url": "https://github.com/noxygalaxy/badges4noxy",
+   "text": "Badges i design for my projects",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Steam-Custom-Artworks",
+   "url": "https://github.com/noxygalaxy/Steam-Custom-Artworks",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Steam",
+   "url": "https://github.com/noxygalaxy/Steam",
+   "text": "SpaceTheme for Steam",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "bestdownload",
+   "url": "https://github.com/noxygalaxy/bestdownload",
+   "text": "123",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "myal-web",
+   "url": "https://github.com/noxygalaxy/myal-web",
+   "text": "🌐 Website for Material You App List (MYAL)",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ST-Installer",
+   "url": "https://github.com/noxygalaxy/ST-Installer",
+   "text": "GUI/CLI installation tool that automates the installation, removal and maintenance of themes.",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "TClient-NoxyModified",
+   "url": "https://github.com/noxygalaxy/TClient-NoxyModified",
+   "text": "Extended DDNet Teeworlds client.",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "pear-desktop",
+   "url": "https://github.com/noxygalaxy/pear-desktop",
+   "text": "some changes made by Noxy",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "NikoChecker-builds",
+   "url": "https://github.com/noxygalaxy/NikoChecker-builds",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "noxyredirect",
+   "url": "https://github.com/noxygalaxy/noxyredirect",
+   "text": "redirect from noxy.netlify.app to nox.pp.ua",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "ComfyUI",
+   "url": "https://github.com/noxygalaxy/ComfyUI",
+   "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "comfyui-linux-desktop",
+   "url": "https://github.com/noxygalaxy/comfyui-linux-desktop",
+   "text": ".desktop file for ComfyUI",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "ModernUI-MC",
+   "url": "https://github.com/noxygalaxy/ModernUI-MC",
+   "text": "Minecraft mod that embeds Modern UI into Minecraft, providing modding API, text layout engine and some widgets.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "installhub",
+   "url": "https://github.com/noxygalaxy/installhub",
+   "text": "Install everything you need just by one command!",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "EditorWaveform",
+   "url": "https://github.com/noxygalaxy/EditorWaveform",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TWLauncher-aur",
+   "url": "https://github.com/noxygalaxy/TWLauncher-aur",
+   "text": "The first and the best Teeworlds launcher / Launcher for most popular Teeworlds clients.",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "tclient-discord-bot-russian",
+   "url": "https://github.com/noxygalaxy/tclient-discord-bot-russian",
+   "text": "Fork for TClient discord bot russian translations",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Level-Startpos",
+   "url": "https://github.com/noxygalaxy/Level-Startpos",
+   "text": "Geode mod that adds a button in LevelInfoLayer that redirects you to startpos version of the level",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "dcmbgc",
+   "url": "https://github.com/noxygalaxy/dcmbgc",
+   "text": "Geode mod for geometry dash that doesn't change bg color on every layer",
+   "fork": false,
+   "stars": 0,
+   "language": "CMake",
+   "topics": []
+  },
+  {
+   "name": "bringback1.6",
+   "url": "https://github.com/noxygalaxy/bringback1.6",
+   "text": "Geode mod for geometry dash that bring back interface of GD 1.6",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "celeste-sound-pack",
+   "url": "https://github.com/noxygalaxy/celeste-sound-pack",
+   "text": "Celeste Sound Pack for Geometry Dash",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "for-projects",
+   "url": "https://github.com/noxygalaxy/for-projects",
+   "text": "i'm using this repo for fetching some things and etc.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "NEVKO-UI",
+   "url": "https://github.com/noxygalaxy/NEVKO-UI",
+   "text": "NEVKO-UI (Old Name - SquaRE-UI) Theme for Steam!",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "NoxConvertor",
+   "url": "https://github.com/noxygalaxy/NoxConvertor",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "SpaceTheme-Discord-RU",
+   "url": "https://github.com/noxygalaxy/SpaceTheme-Discord-RU",
+   "text": "SpaceTheme для Discord для людей у которых не работает оффициальная тема в России",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "noxygalaxy",
+   "url": "https://github.com/noxygalaxy/noxygalaxy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "required-for-apps",
+   "url": "https://github.com/noxygalaxy/required-for-apps",
+   "text": "<3",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "gdpsdozy",
+   "url": "https://github.com/noxygalaxy/gdpsdozy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}

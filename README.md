@@ -21,8 +21,3 @@
 <a href="https://metawka.github.io/expressive-profile/?from=noxygalaxy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
-
-> Profile Views:
-<a href="https://noxyin.space">
-  <img align="center" src="https://count.getloli.com/get/@:noxygalaxy?theme=booru-lisu" />
-</a>
