@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "login": "noxygalaxy",
+  "seed": "#CD77F5",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "that's me!",
+    "name": "",
+    "subtitle": "Working on a lot of projects, trying to make best things <3",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "code",
+        "label": "TypeScript · Rust"
+      },
+      {
+        "icon": "videocam",
+        "label": "Video Editor"
+      },
+      {
+        "icon": "location_on",
+        "label": "Germany"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me :3",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer, designer & video editor"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "My main system is CachyOS, secondary is Windows 11"
+      },
+      {
+        "icon": "palette",
+        "label": "I love purple"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Programming Languages",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "coffee",
+            "label": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:tauri",
+            "label": "Tauri"
+          },
+          {
+            "icon": "video_settings",
+            "label": "Premiere Pro / After Effects"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "TWLauncher",
+      "rl-discord-rpc"
+    ],
+    "overrides": {
+      "TWLauncher": {
+        "icon": "rocket_launch"
+      },
+      "rl-discord-rpc": {
+        "icon": "brand:discord"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/noxygalaxy"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/623924391356399616"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/id/Nooxxyyy"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://youtube.com/@nooxxyyy"
+      },
+      {
+        "icon": "brand:reddit",
+        "url": "https://https://www.reddit.com/user/NoxyYT/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "filled",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "noxyin.space",
+        "url": "https://noxygalaxy.vercel.app",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
