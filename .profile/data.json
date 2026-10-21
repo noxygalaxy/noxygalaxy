@@ -1,9 +1,9 @@
 {
- "key": "9eacc9ca",
+ "key": "969aa703",
  "stars": 33,
  "contributions": 329,
  "repos": 47,
- "followers": 26,
+ "followers": 27,
  "languages": [
   [
    "JavaScript",
@@ -118,17 +118,25 @@
    {
     "c": 1,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
     "today": true
    },
-   null,
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 9
  },
  "pins": [
