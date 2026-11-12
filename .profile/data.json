@@ -1,5 +1,5 @@
 {
- "key": "aba2d3c3",
+ "key": "89d43a85",
  "stars": 33,
  "contributions": 361,
  "repos": 49,
@@ -128,9 +128,13 @@
    {
     "c": 0,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
@@ -163,7 +167,7 @@
    "url": "https://github.com/MoonMonet/Translator",
    "text": "A beautiful, minimalist, and smart desktop translator that actually gets out of your way.",
    "fork": false,
-   "stars": 61,
+   "stars": 62,
    "language": "TypeScript",
    "topics": [
     "deepl",
