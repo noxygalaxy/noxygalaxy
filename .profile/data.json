@@ -1,5 +1,5 @@
 {
- "key": "f001b606",
+ "key": "c7b95fdd",
  "stars": 33,
  "contributions": 369,
  "repos": 49,
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
@@ -196,7 +200,7 @@
    "url": "https://github.com/TaterClient/TClient",
    "text": "Extended DDNet Teeworlds client.",
    "fork": true,
-   "stars": 145,
+   "stars": 146,
    "language": "C++",
    "topics": []
   },
