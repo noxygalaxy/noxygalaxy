@@ -1,5 +1,5 @@
 {
- "key": "4ed5d64a",
+ "key": "f0d24c2c",
  "stars": 34,
  "contributions": 363,
  "repos": 49,
@@ -138,9 +138,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
@@ -153,7 +157,7 @@
    "url": "https://github.com/cdmtn/CodeMotion",
    "text": "CodeMotion - IDE for web-developers",
    "fork": false,
-   "stars": 82,
+   "stars": 81,
    "language": "JavaScript",
    "topics": [
     "electron",
